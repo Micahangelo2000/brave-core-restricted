@@ -1,5 +1,8 @@
-# Brave Core
+# Brave Core Restricted
 
+This is Brave Restricted, a Brave Core fork, which blocks adult content at a base level and forces safe search in normal, incognito, and Tor. Note: If you really want to fix your problem solve it from the heart.  
+
+OG Brave Core: 
 Brave Core is a set of changes, APIs, and scripts used for customizing Chromium to make the Brave browser. Please also check https://github.com/brave/brave-browser
 
 Follow [@brave](https://twitter.com/brave) on Twitter for important announcements.
